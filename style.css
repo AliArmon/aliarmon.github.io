@@ -1,4 +1,21 @@
-h2 {
-    color: blueviolet;
+.container {
+    width:auto;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+div{
+    width: auto;
+    height: auto;
+    padding: 10%;
+    background-color: none;
+    background-size: auto;
+}
+
+h2, h1{
+    color: black;
     text-align: center;
+}
+
+h1{
+    font-size: 70px;
 }
